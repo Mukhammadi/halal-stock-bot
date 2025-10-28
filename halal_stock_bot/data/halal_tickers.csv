@@ -1,0 +1,11 @@
+ticker,exchange,name,source
+AAPL,NASDAQ,Apple Inc.,IdealRatings (sample)
+MSFT,NASDAQ,Microsoft Corporation,IdealRatings (sample)
+GOOGL,NASDAQ,Alphabet Inc.,IdealRatings (sample)
+NVDA,NASDAQ,NVIDIA Corporation,IdealRatings (sample)
+ADBE,NASDAQ,Adobe Inc.,IdealRatings (sample)
+INTC,NASDAQ,Intel Corporation,IdealRatings (sample)
+ORCL,NYSE,Oracle Corporation,IdealRatings (sample)
+SAP,NYSE,SAP SE,IdealRatings (sample)
+ASML,NASDAQ,ASML Holding N.V.,IdealRatings (sample)
+AMAT,NASDAQ,Applied Materials Inc.,IdealRatings (sample)
